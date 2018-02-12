@@ -24,4 +24,14 @@
       </plugin>
     </plugins>
   </build>
+  <dependencies>
+  	<dependency>
+  		<groupId>import org.eclipse.jetty</groupId>
+  		<artifactId>import org.eclipse.jetty.server.Server</artifactId>
+  	</dependency>
+  	<dependency>
+  		<groupId>import org.eclipse.jetty.servlet</groupId>
+  		<artifactId>import org.eclipse.jetty.servlet</artifactId>
+  	</dependency>
+  </dependencies>
 </project>
